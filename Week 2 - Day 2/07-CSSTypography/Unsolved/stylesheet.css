@@ -1,0 +1,15 @@
+.bold {
+    font-weight: bol;
+}
+
+.enlarge {
+    font-size: 43px;
+}
+
+.lineheight {
+    line-height: 30;
+}
+
+body {
+    font-family: 'Dancing Script', cursive;
+}
